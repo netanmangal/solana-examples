@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
     "@solana/web3.js": "^1.73.0",
     "bip39": "^3.0.4",
     "chai": "^4.3.7",
